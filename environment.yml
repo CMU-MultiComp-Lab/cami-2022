@@ -1,0 +1,13 @@
+name: hm_dialogue
+dependencies:
+    - python=2.7
+    - matplotlib=2.2.2
+    - nltk=3.2.5
+    - pandas=0.22.0
+    - scipy=1.0.0
+    - mkl-service=1.1.2
+    - progressbar=2.3
+    - statsmodels=0.8.0
+    - pip:
+        - 'git+https://github.com/mwaskom/seaborn.git'
+        - '--editable=git+https://github.com/akvail/deep_disfluency.git#egg=deep_disfluency'
