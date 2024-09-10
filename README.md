@@ -56,3 +56,11 @@ Renames new transcript files from Justin to a common format. For example,
 
 Provides an interface for tagging speaker IDs (e.g., S1) with speaker names
 (e.g., Participant).
+
+## References
+
+Used in the following publications:
+
+> A. Vail, E. Liebson, J. Baker, L.-P. Morency. Toward Objective, Multifaceted Characterization of Psychotic Disorders: Lexical, Structural, and Disfluency Markers of Spoken Language. Proceedings of the Twentieth International Conference on Multimodal Interaction (ICMI 2018), Boulder, Colorado, 2018. https://doi.org/10.1145/3242969.3243020
+
+> J. Girard*, A. Vail*, E. Liebenthal, K. Brown, C. Kilciksiz, L. Pennant, E. Liebson, D. Öngür, L.-P. Morency, J. Baker. Computational Analysis of Spoken Language in Acute Psychosis and Mania. Schizophrenia Research, 2021. (*equal contribution) https://doi.org/10.1016/j.schres.2021.06.040
